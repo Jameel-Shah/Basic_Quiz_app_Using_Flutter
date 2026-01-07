@@ -1,16 +1,17 @@
-# quiz_app
+# Basic Quiz App (Flutter)
 
-A new Flutter project.
+A simple **Quiz Application** built by using **Flutter**.
+This app demonstrates core **Flutter** concepts such as widgets, loading animations, basic state management and navigation.
+All quiz questions and answers are stored locally using **Dart** classes (no backend or API integration).
 
-## Getting Started
+## Features
+- Multiple choice questions
+- Questions & answers are stored locally
+- Simple and clean UI
+- Beginner-friendly project
+- No backend or API required
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+**Flutter (Dart)**
+**Material UI** for fromt-end design
