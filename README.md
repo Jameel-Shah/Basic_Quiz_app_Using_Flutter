@@ -12,6 +12,6 @@ All quiz questions and answers are stored locally using **Dart** classes (no bac
 - No backend or API required
 
 
-## Tech Stack
+## Technologies used
 **Flutter (Dart)**
-**Material UI** for fromt-end design
+**Material UI** for front-end design
