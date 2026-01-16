@@ -5,7 +5,7 @@ This app demonstrates core **Flutter** concepts such as widgets, loading animati
 All quiz questions and answers are stored locally using **Dart** classes (no backend or API integration).
 
 ## Features
-- Multiple choice questions
+- True/False Questions
 - Questions & answers are stored locally
 - Simple and clean UI
 - Beginner-friendly project
